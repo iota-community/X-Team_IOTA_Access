@@ -24,7 +24,7 @@
 
 ## 🌳 IOTA Access Initiative
 
-The **IOTA Access Initiative** is a collaborative effort to help people in the IOTA Community by introducing consistent workflows around [IOTA Access](https://link-to-blogpost or article) with content, and open source contributions.
+The **IOTA Access Initiative** is a collaborative effort to help people in the IOTA Community by introducing consistent workflows around [IOTA Access](https://blog.iota.org/introducing-iota-access-686a2f017ff) with content, and open source contributions.
 
 IOTA is an open-source distributed ledger technology that allows [connected devices](https://en.wikipedia.org/wiki/Connected_Devices) to transfer data and [IOTA tokens](https://docs.iota.org/docs/getting-started/0.1/clients/token) among each other for zero fees.
 
